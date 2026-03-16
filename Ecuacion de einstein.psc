@@ -1,6 +1,6 @@
-Proceso sin_titulo
+Proceso ec_einstein
 	definir e, m, c como Real
-	escribir "masa";
+	escribir "ingrese la masa en kg";
 	leer m;
 	c<-3*10^8;
 	si m<0 Entonces
