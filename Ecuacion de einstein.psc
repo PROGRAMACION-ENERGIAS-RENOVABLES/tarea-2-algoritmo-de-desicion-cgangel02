@@ -1,5 +1,5 @@
 Proceso ec_einstein
-	definir e, m, c como Real
+	definir E, m, c como Real
 	escribir "ingrese la masa en kg";
 	Leer m
 	c<-3*10^8;
